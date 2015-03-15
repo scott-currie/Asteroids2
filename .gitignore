@@ -45,3 +45,6 @@ Temporary Items
 # Python housekeeping
 __pycache__
 *.pyc
+
+# Komodo files
+*.komodoproject
